@@ -6,5 +6,5 @@
 1.[WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)をインストールする
 2.[Docker_Desktop]()
 
-> WSLとは何ぞや？
->> [Windows Subsystem for Linux]()の略。
+- ※WSLとは何ぞや？
+> [Windows Subsystem for Linux](https://learn.microsoft.com/ja-jp/windows/wsl/install)の略。windows上でLinuxを動かす仮想システム。
