@@ -4,6 +4,7 @@
 
 #### 環境構築
 1.[WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)をインストールする
+2.[Docker_Desktop]()
 
-[^note]: WSLとは何ぞや？
+> WSLとは何ぞや？
 [Windows Subsystem for Linux]の略。
