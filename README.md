@@ -7,4 +7,4 @@
 2.[Docker_Desktop]()
 
 > WSLとは何ぞや？
-[Windows Subsystem for Linux]の略。
+>> [Windows Subsystem for Linux]()の略。
