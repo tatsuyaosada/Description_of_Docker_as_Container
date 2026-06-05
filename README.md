@@ -1,0 +1,2 @@
+# Description_of_Docker_as_Container
+Dockerを例に用いたコンテナ、仮想サーバーの概説
