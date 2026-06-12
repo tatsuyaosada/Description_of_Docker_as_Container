@@ -1,5 +1,4 @@
 #### Dockerを例に用いたコンテナによる仮想サーバーの概要と実践
-ウェブ班第5回勉強会 担当:長田
 ***
 
 #### そもそもコンテナって何？
@@ -10,6 +9,8 @@
 <img width="700" height="400" alt="docker01" src="https://github.com/user-attachments/assets/0644e6fc-03b5-4076-8b1e-190dca0348e6" />
 
 こんな感じ。
+
+####
 
 
 #### 環境構築
