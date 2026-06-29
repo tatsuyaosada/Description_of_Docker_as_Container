@@ -21,10 +21,10 @@
 
 
 #### で、コンテナってのは何となく理解出来たけど、じゃあDockerって何？
+コンテナ生成のデファクトスタンダード。このアプリケーションが生まれたからコンテナと言う概念が出来たとも言われている(※諸説有)
 
 
-
-#### 環境構築
+#### 開発環境の構築
 1. [※WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)をインストールする
 2. windowsの機能でLinux用サブシステムと仮想マシンプラットフォームを有効にする
 3. [Docker_Desktop](https://www.docker.com/ja-jp/products/docker-desktop/)をインストールする
