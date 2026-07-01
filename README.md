@@ -26,7 +26,8 @@
 
 #### Dockerによるコンテナの作成
 コンテナは言ってしまえばただの箱に過ぎません。その中にイメージと言われるテンプレートを導入する事で初めてミドルウェアとして稼働します。
-例えばウェブサーバーを立ち上げたければApacheやNode.js、データベースサーバーならMariaDB、と言った感じ。
+例えばウェブサーバーを立ち上げたければApacheやNode.js、データベースサーバーならMariaDB等、と言った感じ。DockerではこれをDockerfileと
+呼称します。
 
 
 <img width="400" height="154" alt="docker-image" src="https://github.com/user-attachments/assets/dcda1f1d-a18f-484e-9ef7-10bf6c8866e0" />
