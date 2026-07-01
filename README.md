@@ -28,6 +28,10 @@
 例えばウェブサーバーを立ち上げたければApacheやNode.js、データベースサーバーならMariaDB、と言った感じで、基本的には一つのコンテナに
 一つのイメージが対応します。
 
+<img width="400" height="154" alt="docker-image" src="https://github.com/user-attachments/assets/dcda1f1d-a18f-484e-9ef7-10bf6c8866e0" />
+
+
+
 #### 開発環境の構築
 1. [※WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)をインストールする
 2. windowsの機能でLinux用サブシステムと仮想マシンプラットフォームを有効にする
