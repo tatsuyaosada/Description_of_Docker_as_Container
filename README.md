@@ -65,6 +65,9 @@
    - コンテナをイメージや状態ごと文字通り削除する。例えばMariaDB等、データベース系のミドルウェアをこのコンテナで動かしていた場合、当然それも削除される。
    - 実行コマンド : <code>docker rm</code>
 
+<hr>
+基本的なイメージはこんな感じ
+
 <img width="564" height="400" alt="container-lifecycle02" src="https://github.com/user-attachments/assets/e9c8efd2-e6ba-4241-9b4d-06dade4dcc69" />
 
 <hr>
