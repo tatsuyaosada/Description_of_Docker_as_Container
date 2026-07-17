@@ -51,11 +51,14 @@
 
 1. Create(作成)
    - コンテナにイメージを取り込んだ状態。環境構築としては完成と言えなくもないが、残念ながらこの状態では動作しない。
-   - 対応するコマンド : <code>docker create</code>
+   - 実行コマンド : <code>docker create</code>
 2. Running(実行)
    - イメージによって作成されたコンテナを起動する。これにより、対応するイメージのアプリケーションとして動作する様になる。
-   - 対応するコマンド : <code>docker start</code> もしくは <code>docker run</code>
-3. Exited/Stopped(停止)
+   - 実行コマンド : <code>docker start</code> もしくは <code>docker run</code>
+3. Paused(一時停止)
+   - コンテナの稼働を<strong>一時的</strong>に停止する。プロセスは停止しますが、メモリ上には状態が維持される。要するに残る。
+   - 実行コマンド ： <code>docker pause</code> 
+4. Exited/Stopped(停止)
    - コンテナの稼働を完全にシャットダウンした状態。もちろん再度稼働させる事も出来る。3の一時停止との違いは、PCのメモリを解放するか否か。
    - 対応するコマンド ： <code>docker stop</code>
 
