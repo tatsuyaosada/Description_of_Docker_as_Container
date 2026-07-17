@@ -62,12 +62,15 @@
    - コンテナの稼働を完全にシャットダウンした状態。もちろん再度稼働させる事も出来る。3の一時停止との違いは、PCのメモリを解放するか否か。
    - 実行コマンド ： <code>docker stop</code>
 5.Removed(削除)
-   - コンテナをイメージや状態ごと文字通り削除する。例えばMariaDB等、データベース系のミドルウェアをこのコンテナで動かしていた場合、当然
+   - コンテナをイメージや状態ごと文字通り削除する。例えばMariaDB等、データベース系のミドルウェアをこのコンテナで動かしていた場合、当然それも削除される。
+   - 実行コマンド : <code>docker rm</code>
 
 <img width="564" height="400" alt="container-lifecycle02" src="https://github.com/user-attachments/assets/e9c8efd2-e6ba-4241-9b4d-06dade4dcc69" />
 
+<hr>
+もう少し詳細なものだと...
 
-
+<img width="1133" height="516" alt="20200702233743" src="https://github.com/user-attachments/assets/cda0eddd-d56b-4c00-bc3e-7eb3ed89de28" />
 
 
 #### 開発環境の構築
