@@ -60,7 +60,9 @@
    - 実行コマンド ： <code>docker pause</code> 
 4. Exited/Stopped(停止)
    - コンテナの稼働を完全にシャットダウンした状態。もちろん再度稼働させる事も出来る。3の一時停止との違いは、PCのメモリを解放するか否か。
-   - 対応するコマンド ： <code>docker stop</code>
+   - 実行コマンド ： <code>docker stop</code>
+5.Removed(削除)
+   - コンテナをイメージや状態ごと文字通り削除する。例えばMariaDB等、データベース系のミドルウェアをこのコンテナで動かしていた場合、当然
 
 <img width="564" height="400" alt="container-lifecycle02" src="https://github.com/user-attachments/assets/e9c8efd2-e6ba-4241-9b4d-06dade4dcc69" />
 
