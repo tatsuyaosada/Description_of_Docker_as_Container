@@ -73,7 +73,9 @@
 <hr>
 もう少し詳細なものだと...
 
+<!--
 <img width="1133" height="516" alt="20200702233743" src="https://github.com/user-attachments/assets/cda0eddd-d56b-4c00-bc3e-7eb3ed89de28" />
+-->
 
 
 #### 開発環境の構築
