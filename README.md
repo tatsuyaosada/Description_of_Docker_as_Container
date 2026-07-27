@@ -70,10 +70,10 @@
 
 <img width="564" height="400" alt="container-lifecycle02" src="https://github.com/user-attachments/assets/e9c8efd2-e6ba-4241-9b4d-06dade4dcc69" />
 
+<!--
 <hr>
 もう少し詳細なものだと...
 
-<!--
 <img width="1133" height="516" alt="20200702233743" src="https://github.com/user-attachments/assets/cda0eddd-d56b-4c00-bc3e-7eb3ed89de28" />
 -->
 
