@@ -9,5 +9,10 @@
 
 #### それぞれの長所と短所
 
+#### では「コンテナ」とは一体何者なのか
+
+<img width="540" height="330" alt="docker01" src="https://github.com/user-attachments/assets/727223de-388f-451c-ad4b-1ab194a023e5" />
+
+
 #### 注釈
 [^1]: Hyper-VやVirtualBoxの様な
