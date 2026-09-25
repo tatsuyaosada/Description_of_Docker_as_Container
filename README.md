@@ -18,15 +18,16 @@ TODO::
 
 #### では今回の主役「コンテナ」とは一体何者なのか
 
+
 <img width="540" height="330" alt="docker01" src="https://github.com/user-attachments/assets/727223de-388f-451c-ad4b-1ab194a023e5" />
 
 
 
-#### 実践編 Dockerを使ってローカル環境にWordPressをインストールしてみよう
+#### 実践編 Dockerを使ってローカル環境にWordPressの開発環境を構築してみよう
 
 TODO::
 
-#### 注釈
+##### 注釈
 [^1]: いわゆるオンプレミス
 [^2]: Hyper-VやVirtualBoxの様な
 [^3]:　
